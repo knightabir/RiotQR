@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# RiotQR
 
-## Getting Started
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-First, run the development server:
+**RiotQR** is a free, privacy-focused QR code & barcode generator. Instantly create codes for URLs, WiFi, events, contacts, SMS, email, Amazon FBA, EAN/UPC, ISBN, and more. Download, print, share, and save—all with no registration required. Fast, mobile-friendly, and open source.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Generate QR codes for URLs, WiFi, events, contacts, SMS, email, and more
+- Create barcodes: Amazon FBA, EAN/UPC, ISBN, Linear (Code 128, Code 39, etc.)
+- Download, print, share, and save your codes
+- Mobile-friendly, fast, and easy to use
+- No data stored or shared—privacy by design
+- Open source and free for personal and commercial use
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🌐 Live Demo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+[https://riotqr.com/](https://riotqr.com/)
 
-## Learn More
+## 📦 Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/knightabir/RiotQR.git
+   cd RiotQR
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-## Deploy on Vercel
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤝 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+We welcome contributions from the community! To contribute:
+
+1. **Fork** the repository and create your branch from `main`.
+2. **Commit** your changes with clear messages.
+3. **Push** to your fork and submit a **pull request**.
+4. Please ensure your code follows the existing style and passes linting/tests.
+
+**Ways to contribute:**
+- Report bugs or request features via [issues](https://github.com/knightabir/RiotQR/issues)
+- Submit pull requests for new features, bug fixes, or improvements
+- Help improve documentation
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+**GitHub:** [https://github.com/knightabir/RiotQR](https://github.com/knightabir/RiotQR)
